@@ -36,6 +36,7 @@ const Cart = (props) => {
         body: JSON.stringify({ user: userData, orderedItems: cartCtx.items }),
       }
     );
+    console.log(response);
     setIsSubmitting(false);
     setDidSubmit(true);
     cartCtx.clearCart();
