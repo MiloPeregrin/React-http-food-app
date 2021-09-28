@@ -14,4 +14,4 @@ Lokální state management pomocí **useState** & **useRef** hooks, cross-compon
 
 Jako dummy backend použita [Firebase](https://firebase.google.com/), z níž byl pomocí **Fetch API** metodou GET získán seznam uložených pokrmů, data dynamicky vyrenderována v appce a metodou POST zase odeslán seznam objednaných pokrmů zpět do databáze.
 
-Deployment DEMO website na [vercel.com](https://vercel.com/)
+Deployment na vercel.com [DEMO](https://react-http-food-app.vercel.app/)
