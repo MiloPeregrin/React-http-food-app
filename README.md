@@ -1,6 +1,6 @@
 # O projektu
 
-Tutoriálový projekt z kurzu [React - The Complete Guide ](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
+Tutoriálový projekt z kurzu [React - The Complete Guide ](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 Autor: Maximilian Schwarzmüller
 
