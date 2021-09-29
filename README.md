@@ -12,8 +12,6 @@ K lokálnímu stylování componentů pouužity **CSS Modules**.
 
 Lokální state management pomocí **useState** & **useRef** hooks, cross-component state pak pomocí **useContext** & **useReducer**.
 
-Jako dummy backend použita [Firebase](https://firebase.google.com/), z níž byl pomocí **Fetch API** metodou GET získán seznam uložených pokrmů, data dynamicky vyrenderována v appce a metodou POST zase odeslán seznam objednaných pokrmů zpět do databáze.
-
-Deployment na vercel.com 
+Jako dummy backend je použita [Firebase](https://firebase.google.com/), z níž byl pomocí **Fetch API** metodou GET získán seznam uložených pokrmů, data dynamicky vyrenderována v appce a metodou POST zase odeslán seznam uživatelem objednaných pokrmů zpět do databáze.
 
 [DEMO](https://react-http-food-app.vercel.app/)
